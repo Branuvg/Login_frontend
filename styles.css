@@ -1,10 +1,10 @@
 /* Estilos globales */
 :root {
-  --primary-color: #4f46e5;
-  --primary-hover: #4338ca;
-  --secondary-color: #f3f4f6;
+  --primary-color: #48866d;
+  --primary-hover: #37335f;
+  --secondary-color: #bbc6dd;
   --text-color: #1f2937;
-  --error-color: #ef4444;
+  --error-color: hsl(0, 70%, 45%);
   --success-color: #10b981;
   --border-color: #e5e7eb;
   --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
